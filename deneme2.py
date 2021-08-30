@@ -1,1 +1,1 @@
-print("hello")
+print("erü pişmalıktır, nezir baba kraldır")
